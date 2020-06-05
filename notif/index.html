@@ -16,6 +16,7 @@
 </html>
 
 <script>
+    navigator.serviceWorker.register('sw.js');
     function chrome() {
         Notification.requestPermission(function (result) {
             if (result === 'granted') {
