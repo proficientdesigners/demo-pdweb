@@ -9,7 +9,8 @@
 
 <body>
     <button onclick="notifyMe()">Notify me!</button>
-    <div>Status: <span id="status"></span></div>
+    <p>Click Status: <span id="clickStatus"></span></p>
+    <p>Notification Status: <span id="notifStatus"></span></p>
 </body>
 
 </html>
@@ -17,7 +18,11 @@
 <script>
     function notifyMe() {
 
-        let status = document.getElementById('status');
+        let clickStatus = document.getElementById('clickStatus');
+        let notifStatus = document.getElementById('notifStatus');
+
+        clickStatus.innerHTML = 'clicked';
+
         // Let's check if the browser supports notifications
         if (!("Notification" in window)) {
             alert("This browser does not support desktop notification");
@@ -30,7 +35,7 @@
                 icon: 'logo-512.png',
                 body: 'message'
             });
-            status.innerHTML = 'default';
+            notifStatus.innerHTML = 'default';
         }
 
         // Let's check whether notification permissions have already been granted
@@ -40,7 +45,7 @@
                 icon: 'logo-512.png',
                 body: 'message'
             });
-            status.innerHTML = 'granted';
+            notifStatus.innerHTML = 'granted';
         }
 
         // Otherwise, we need to ask the user for permission
@@ -51,13 +56,13 @@
                     var notification = new Notification("Hi you've denied the permission!");
                 }
             });
-            status.innerHTML = 'denied';
+            notifStatus.innerHTML = 'denied';
         }
 
         // At last, if the user has denied notifications, and you
         // want to be respectful there is no need to bother them any more.
         else {
-            status.innerHTML = 'error';
+            notifStatus.innerHTML = 'error';
         }
     }
 </script>
