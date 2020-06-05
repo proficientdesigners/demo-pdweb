@@ -8,7 +8,7 @@
 </head>
 
 <body>
-    <button onclick="notifyMe()">Notify me!</button>
+    <button onclick="chrome()">Notify me!</button>
     <p>Click Status: <span id="clickStatus"></span></p>
     <p>Notification Status: <span id="notifStatus"></span></p>
 </body>
@@ -16,6 +16,16 @@
 </html>
 
 <script>
+    function chrome() {
+        Notification.requestPermission(function (result) {
+            if (result === 'granted') {
+                navigator.serviceWorker.ready.then(function (registration) {
+                    registration.showNotification('Notification with ServiceWorker');
+                });
+            }
+        });
+    }
+
     function notifyMe() {
 
         let clickStatus = document.getElementById('clickStatus');
