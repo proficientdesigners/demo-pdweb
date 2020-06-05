@@ -21,7 +21,7 @@
         let clickStatus = document.getElementById('clickStatus');
         let notifStatus = document.getElementById('notifStatus');
 
-        clickStatus.innerHTML = 'clicked';
+        clickStatus.innerHTML = 'clicked: ' + Notification.permission;
         console.log(window);
 
         // Let's check if the browser supports notifications
