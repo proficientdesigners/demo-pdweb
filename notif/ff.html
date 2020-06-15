@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+
+    <button onclick="notifyMe()">Notify me!</button>
+    <p>Click Status: <span id="clickStatus"></span></p>
+    <p>Notification Status: <span id="notifStatus"></span></p>
+
+    <script>
+        function notifyMe() {
+
+            let clickStatus = document.getElementById('clickStatus');
+            let notifStatus = document.getElementById('notifStatus');
+
+            clickStatus.innerHTML = 'clicked: ' + Notification.permission;
+            console.log(window);
+
+            // Let's check if the browser supports notifications
+            if (!("Notification" in window)) {
+                alert("This browser does not support desktop notification");
+            }
+
+            // Let's check whether notification permissions have already been default
+            else if (Notification.permission === "default") {
+                // If it's okay let's create a notification
+                var notification = new Notification("Hi there, thank you for granting the permission default!", {
+                    icon: 'logo-512.png',
+                    body: 'message'
+                });
+                notifStatus.innerHTML = 'default';
+            }
+
+            // Let's check whether notification permissions have already been granted
+            else if (Notification.permission === "granted") {
+                // If it's okay let's create a notification
+                var notification = new Notification("Hi there, thank you for granting the permission!", {
+                    icon: 'logo-512.png',
+                    body: 'message'
+                });
+                notifStatus.innerHTML = 'granted';
+            }
+
+            // Otherwise, we need to ask the user for permission
+            else if (Notification.permission !== "denied") {
+                Notification.requestPermission().then(function (permission) {
+                    // If the user accepts, let's create a notification
+                    if (permission === "granted") {
+                        var notification = new Notification("Hi you've denied the permission!");
+                    }
+                });
+                notifStatus.innerHTML = 'denied';
+            }
+
+            // At last, if the user has denied notifications, and you
+            // want to be respectful there is no need to bother them any more.
+            else {
+                notifStatus.innerHTML = 'error';
+            }
+        }
+    </script>
+</body>
+
+</html>
