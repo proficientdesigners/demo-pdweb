@@ -1667,14 +1667,14 @@ p.count-text {
 	opacity: 1;
 }
 
-.custom-select {
+/* .custom-select {
 	height: 45px;
 	font-size: 16px;
-}
+} */
 
-select.form-control:not([size]):not([multiple]) {
+/* select.form-control:not([size]):not([multiple]) {
 	height: calc(45px + 2px);
-}
+} */
 
 .help-block ul li {
 	color: red;
