@@ -4,6 +4,7 @@
 		background-position: center;
 		.overlay {
 			@include overlay($primary, 0.4);
+			text-shadow: 1px 1px 4px rgba($color: #000000, $alpha: 0.5);
 		}
 	}
 }

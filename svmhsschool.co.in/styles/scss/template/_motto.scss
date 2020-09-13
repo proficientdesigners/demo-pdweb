@@ -3,6 +3,6 @@
 	background-position: center;
 	background-attachment: fixed;
 	.overlay {
-		@include overlay($warning, 0.8);
+		@include overlay($primary, 0.8);
 	}
 }
