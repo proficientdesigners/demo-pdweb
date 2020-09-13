@@ -1,5 +1,0 @@
-{
-    "scripts": {
-        "scss": "compass watch styles/"
-    }
-}

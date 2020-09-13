@@ -1,0 +1,17 @@
+#main_banner {
+	.main_banner_item {
+		background-size: cover;
+		background-position: center;
+		.overlay {
+			@include overlay($primary, 0.4);
+		}
+	}
+}
+.other_banner {
+	background-size: cover;
+	background-position: center;
+	.overlay {
+		height: 50vh;
+		@include overlay($primary, 0.4);
+	}
+}

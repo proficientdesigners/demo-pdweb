@@ -1,0 +1,8 @@
+.main_header {
+	top: 0;
+	z-index: 99;
+	@include overlay($primary, 0.8);
+	.logo {
+		max-width: 100px;
+	}
+}
