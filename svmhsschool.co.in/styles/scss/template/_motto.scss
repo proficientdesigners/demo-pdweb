@@ -1,8 +1,0 @@
-.motto_bg {
-	background-size: cover;
-	background-position: center;
-	background-attachment: fixed;
-	.overlay {
-		@include overlay($primary, 0.5);
-	}
-}

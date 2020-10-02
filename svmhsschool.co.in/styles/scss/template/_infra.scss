@@ -1,7 +1,0 @@
-.infraItem {
-	&:hover {
-		@extend .shadow;
-		@extend .border;
-		@include transition();
-	}
-}
