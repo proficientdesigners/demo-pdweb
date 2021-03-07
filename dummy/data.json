@@ -1,7 +1,7 @@
 [
 	{
-		"title": "Breakfast",
-		"price": "$15",
+		"title": "Fresh Meat",
+		"price": "$17",
 		"images": {
 			"full": "asparagus-2169305_1280.jpg",
 			"list": "asparagus-2169305_1280-80x80.jpg",
@@ -12,8 +12,8 @@
 		}
 	},
 	{
-		"title": "Breakfast",
-		"price": "$15",
+		"title": "Bread Sandwich",
+		"price": "$10",
 		"images": {
 			"full": "breakfast-1804457_1280.jpg",
 			"list": "breakfast-1804457_1280-80x80.jpg",
@@ -24,8 +24,8 @@
 		}
 	},
 	{
-		"title": "Breakfast",
-		"price": "$15",
+		"title": "Delicious Cake",
+		"price": "$22",
 		"images": {
 			"full": "cake-1971552_1280.jpg",
 			"list": "cake-1971552_1280-80x80.jpg",
@@ -36,8 +36,8 @@
 		}
 	},
 	{
-		"title": "Breakfast",
-		"price": "$15",
+		"title": "Morning Coffee",
+		"price": "$5",
 		"images": {
 			"full": "coffee-3120750_1280.jpg",
 			"list": "coffee-3120750_1280-80x80.jpg",
@@ -48,8 +48,8 @@
 		}
 	},
 	{
-		"title": "Breakfast",
-		"price": "$15",
+		"title": "Cup Cakes",
+		"price": "$8",
 		"images": {
 			"full": "cupcakes-690040_1280.jpg",
 			"list": "cupcakes-690040_1280-80x80.jpg",
@@ -60,8 +60,8 @@
 		}
 	},
 	{
-		"title": "Breakfast",
-		"price": "$15",
+		"title": "Combo Food",
+		"price": "$25",
 		"images": {
 			"full": "food-366875_1280.jpg",
 			"list": "food-366875_1280-80x80.jpg",
@@ -72,7 +72,7 @@
 		}
 	},
 	{
-		"title": "Breakfast",
+		"title": "Chicken Meat",
 		"price": "$15",
 		"images": {
 			"full": "food-712665_1920.jpg",
@@ -84,8 +84,8 @@
 		}
 	},
 	{
-		"title": "Breakfast",
-		"price": "$15",
+		"title": "Fruit Salad",
+		"price": "$11",
 		"images": {
 			"full": "fruit-2367029_1280.jpg",
 			"list": "fruit-2367029_1280-80x80.jpg",
@@ -96,8 +96,8 @@
 		}
 	},
 	{
-		"title": "Breakfast",
-		"price": "$15",
+		"title": "Hamburger",
+		"price": "$18",
 		"images": {
 			"full": "hamburger-1238246_1280.jpg",
 			"list": "hamburger-1238246_1280-80x80.jpg",
@@ -108,8 +108,8 @@
 		}
 	},
 	{
-		"title": "Breakfast",
-		"price": "$15",
+		"title": "Hot Burger",
+		"price": "$17",
 		"images": {
 			"full": "hamburger-494706_1920.jpg",
 			"list": "hamburger-494706_1920-80x80.jpg",
@@ -120,8 +120,8 @@
 		}
 	},
 	{
-		"title": "Breakfast",
-		"price": "$15",
+		"title": "Ice Cream",
+		"price": "$3",
 		"images": {
 			"full": "ice-cream-1274894_1280.jpg",
 			"list": "ice-cream-1274894_1280-80x80.jpg",
@@ -132,8 +132,8 @@
 		}
 	},
 	{
-		"title": "Breakfast",
-		"price": "$15",
+		"title": "Strawberry Dish",
+		"price": "$6",
 		"images": {
 			"full": "pancake-1984716_1280.jpg",
 			"list": "pancake-1984716_1280-80x80.jpg",
@@ -144,8 +144,8 @@
 		}
 	},
 	{
-		"title": "Breakfast",
-		"price": "$15",
+		"title": "Honey Naan",
+		"price": "$9",
 		"images": {
 			"full": "pancakes-2139844_1920.jpg",
 			"list": "pancakes-2139844_1920-80x80.jpg",
@@ -156,7 +156,7 @@
 		}
 	},
 	{
-		"title": "Breakfast",
+		"title": "Pan Cakes",
 		"price": "$15",
 		"images": {
 			"full": "pancakes-2291908_1280.jpg",
@@ -168,8 +168,8 @@
 		}
 	},
 	{
-		"title": "Breakfast",
-		"price": "$15",
+		"title": "Piza",
+		"price": "$35",
 		"images": {
 			"full": "piza-3010062_1280.jpg",
 			"list": "piza-3010062_1280-80x80.jpg",
@@ -180,8 +180,8 @@
 		}
 	},
 	{
-		"title": "Breakfast",
-		"price": "$15",
+		"title": "Pizza Half",
+		"price": "$7.5",
 		"images": {
 			"full": "pizza-3007395_1280.jpg",
 			"list": "pizza-3007395_1280-80x80.jpg",
@@ -192,8 +192,8 @@
 		}
 	},
 	{
-		"title": "Breakfast",
-		"price": "$15",
+		"title": "Raspberry (Red)",
+		"price": "$23",
 		"images": {
 			"full": "raspberries-1426859_1280.jpg",
 			"list": "raspberries-1426859_1280-80x80.jpg",
