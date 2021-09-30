@@ -1,50 +1,62 @@
 [
 	{
-		"name": "",
+		"name": "FedEx",
+		"experience": "5+ Years | United States",
 		"img": "https://demo.proficientdesigners.in/a4w/companies/comp1.jpg"
 	},
 	{
-		"name": "",
+		"name": "Toyoto",
+		"experience": "2+ Years | India",
 		"img": "https://demo.proficientdesigners.in/a4w/companies/comp2.jpg"
 	},
 	{
-		"name": "",
+		"name": "TATA",
+		"experience": "1+ Years | United Kingdom",
 		"img": "https://demo.proficientdesigners.in/a4w/companies/comp3.jpg"
 	},
 	{
-		"name": "",
+		"name": "Dell",
+		"experience": "7+ Years | Canada",
 		"img": "https://demo.proficientdesigners.in/a4w/companies/comp4.jpg"
 	},
 	{
-		"name": "",
+		"name": "Adidas",
+		"experience": "5+ Years | Japan",
 		"img": "https://demo.proficientdesigners.in/a4w/companies/comp5.jpg"
 	},
 	{
-		"name": "",
+		"name": "FedEx",
+		"experience": "5+ Years | Moroco",
 		"img": "https://demo.proficientdesigners.in/a4w/companies/comp6.jpg"
 	},
 	{
-		"name": "",
+		"name": "Baskin Robins",
+		"experience": "5+ Years | Parris",
 		"img": "https://demo.proficientdesigners.in/a4w/companies/comp7.jpg"
 	},
 	{
-		"name": "",
+		"name": "Amazon",
+		"experience": "5+ Years | California",
 		"img": "https://demo.proficientdesigners.in/a4w/companies/comp8.jpg"
 	},
 	{
-		"name": "",
+		"name": "IBM",
+		"experience": "5+ Years | Abroad",
 		"img": "https://demo.proficientdesigners.in/a4w/companies/comp9.jpg"
 	},
 	{
-		"name": "",
+		"name": "HP",
+		"experience": "5+ Years | United States",
 		"img": "https://demo.proficientdesigners.in/a4w/companies/comp10.jpg"
 	},
 	{
-		"name": "",
+		"name": "Shell",
+		"experience": "5+ Years | United States",
 		"img": "https://demo.proficientdesigners.in/a4w/companies/comp11.jpg"
 	},
 	{
-		"name": "",
+		"name": "Intel",
+		"experience": "5+ Years | United States",
 		"img": "https://demo.proficientdesigners.in/a4w/companies/comp12.jpg"
 	}
 ]
