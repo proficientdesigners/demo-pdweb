@@ -1,71 +1,83 @@
 [
 	{
+		"id": 1,
 		"requirement": "Need a system admin",
 		"name": "FedEx",
 		"experience": "5+ Years | United States",
 		"img": "https://demo.proficientdesigners.in/a4w/companies/comp0.jpg"
 	},
 	{
+		"id": 2,
 		"requirement": "A Mechanical Engineer",
 		"name": "Toyoto",
 		"experience": "2+ Years | India",
 		"img": "https://demo.proficientdesigners.in/a4w/companies/comp1.jpg"
 	},
 	{
+		"id": 3,
 		"requirement": "Best test Driver",
 		"name": "TATA",
 		"experience": "1+ Years | United Kingdom",
 		"img": "https://demo.proficientdesigners.in/a4w/companies/comp2.jpg"
 	},
 	{
+		"id": 4,
 		"requirement": "Need a hardware engineer",
 		"name": "Dell",
 		"experience": "7+ Years | Canada",
 		"img": "https://demo.proficientdesigners.in/a4w/companies/comp3.jpg"
 	},
 	{
+		"id": 5,
 		"requirement": "Sale girl with bachelor degree",
 		"name": "Adidas",
 		"experience": "5+ Years | Japan",
 		"img": "https://demo.proficientdesigners.in/a4w/companies/comp4.jpg"
 	},
 	{
+		"id": 6,
 		"requirement": "A courier boy",
 		"name": "FedEx",
 		"experience": "5+ Years | Moroco",
 		"img": "https://demo.proficientdesigners.in/a4w/companies/comp5.jpg"
 	},
 	{
+		"id": 7,
 		"requirement": "Master chef",
 		"name": "Baskin Robins",
 		"experience": "5+ Years | Parris",
 		"img": "https://demo.proficientdesigners.in/a4w/companies/comp6.jpg"
 	},
 	{
+		"id": 8,
 		"requirement": "Customer care",
 		"name": "Amazon",
 		"experience": "5+ Years | California",
 		"img": "https://demo.proficientdesigners.in/a4w/companies/comp7.jpg"
 	},
 	{
+		"id": 9,
 		"requirement": "System engineer",
 		"name": "IBM",
 		"experience": "5+ Years | Abroad",
 		"img": "https://demo.proficientdesigners.in/a4w/companies/comp8.jpg"
 	},
 	{
+		"id": 10,
 		"requirement": "Software analyst",
 		"name": "HP",
 		"experience": "5+ Years | United States",
 		"img": "https://demo.proficientdesigners.in/a4w/companies/comp9.jpg"
 	},
 	{
+		"id": 11,
 		"requirement": "Manager",
 		"name": "Shell",
 		"experience": "5+ Years | United States",
 		"img": "https://demo.proficientdesigners.in/a4w/companies/comp10.jpg"
 	},
 	{
+		"id": 12,
 		"requirement": "Tester",
 		"name": "Intel",
 		"experience": "5+ Years | United States",
