@@ -1,0 +1,206 @@
+[
+	{
+		"title": "Fresh Meat",
+		"price": "$17",
+		"images": {
+			"full": "https://demo.proficientdesigners.in/homebox/food/images/asparagus-2169305_1280.jpg",
+			"list": "https://demo.proficientdesigners.in/homebox/food/images/asparagus-2169305_1280-80x80.jpg",
+			"thumbnail": "https://demo.proficientdesigners.in/homebox/food/images/asparagus-2169305_1280-150x150.jpg",
+			"medium": "https://demo.proficientdesigners.in/homebox/food/images/asparagus-2169305_1280-600x400.jpg",
+			"large": "https://demo.proficientdesigners.in/homebox/food/images/asparagus-2169305_1280-900x600.jpg",
+			"shop": "https://demo.proficientdesigners.in/homebox/food/images/asparagus-2169305_1280-324x324.jpg"
+		}
+	},
+	{
+		"title": "Bread Sandwich",
+		"price": "$10",
+		"images": {
+			"full": "https://demo.proficientdesigners.in/homebox/food/images/breakfast-1804457_1280.jpg",
+			"list": "https://demo.proficientdesigners.in/homebox/food/images/breakfast-1804457_1280-80x80.jpg",
+			"thumbnail": "https://demo.proficientdesigners.in/homebox/food/images/breakfast-1804457_1280-150x150.jpg",
+			"medium": "https://demo.proficientdesigners.in/homebox/food/images/breakfast-1804457_1280-600x400.jpg",
+			"large": "https://demo.proficientdesigners.in/homebox/food/images/breakfast-1804457_1280-900x600.jpg",
+			"shop": "https://demo.proficientdesigners.in/homebox/food/images/breakfast-1804457_1280-324x324.jpg"
+		}
+	},
+	{
+		"title": "Delicious Cake",
+		"price": "$22",
+		"images": {
+			"full": "https://demo.proficientdesigners.in/homebox/food/images/cake-1971552_1280.jpg",
+			"list": "https://demo.proficientdesigners.in/homebox/food/images/cake-1971552_1280-80x80.jpg",
+			"thumbnail": "https://demo.proficientdesigners.in/homebox/food/images/cake-1971552_1280-150x150.jpg",
+			"medium": "https://demo.proficientdesigners.in/homebox/food/images/cake-1971552_1280-600x400.jpg",
+			"large": "https://demo.proficientdesigners.in/homebox/food/images/cake-1971552_1280-900x600.jpg",
+			"shop": "https://demo.proficientdesigners.in/homebox/food/images/cake-1971552_1280-324x324.jpg"
+		}
+	},
+	{
+		"title": "Morning Coffee",
+		"price": "$5",
+		"images": {
+			"full": "https://demo.proficientdesigners.in/homebox/food/images/coffee-3120750_1280.jpg",
+			"list": "https://demo.proficientdesigners.in/homebox/food/images/coffee-3120750_1280-80x80.jpg",
+			"thumbnail": "https://demo.proficientdesigners.in/homebox/food/images/coffee-3120750_1280-150x150.jpg",
+			"medium": "https://demo.proficientdesigners.in/homebox/food/images/coffee-3120750_1280-600x400.jpg",
+			"large": "https://demo.proficientdesigners.in/homebox/food/images/coffee-3120750_1280-900x600.jpg",
+			"shop": "https://demo.proficientdesigners.in/homebox/food/images/coffee-3120750_1280-324x324.jpg"
+		}
+	},
+	{
+		"title": "Cup Cakes",
+		"price": "$8",
+		"images": {
+			"full": "https://demo.proficientdesigners.in/homebox/food/images/cupcakes-690040_1280.jpg",
+			"list": "https://demo.proficientdesigners.in/homebox/food/images/cupcakes-690040_1280-80x80.jpg",
+			"thumbnail": "https://demo.proficientdesigners.in/homebox/food/images/cupcakes-690040_1280-150x150.jpg",
+			"medium": "https://demo.proficientdesigners.in/homebox/food/images/cupcakes-690040_1280-600x400.jpg",
+			"large": "https://demo.proficientdesigners.in/homebox/food/images/cupcakes-690040_1280-900x600.jpg",
+			"shop": "https://demo.proficientdesigners.in/homebox/food/images/cupcakes-690040_1280-324x324.jpg"
+		}
+	},
+	{
+		"title": "Combo Food",
+		"price": "$25",
+		"images": {
+			"full": "https://demo.proficientdesigners.in/homebox/food/images/food-366875_1280.jpg",
+			"list": "https://demo.proficientdesigners.in/homebox/food/images/food-366875_1280-80x80.jpg",
+			"thumbnail": "https://demo.proficientdesigners.in/homebox/food/images/food-366875_1280-150x150.jpg",
+			"medium": "https://demo.proficientdesigners.in/homebox/food/images/food-366875_1280-600x400.jpg",
+			"large": "https://demo.proficientdesigners.in/homebox/food/images/food-366875_1280-900x600.jpg",
+			"shop": "https://demo.proficientdesigners.in/homebox/food/images/food-366875_1280-324x324.jpg"
+		}
+	},
+	{
+		"title": "Chicken Meat",
+		"price": "$15",
+		"images": {
+			"full": "https://demo.proficientdesigners.in/homebox/food/images/food-712665_1920.jpg",
+			"list": "https://demo.proficientdesigners.in/homebox/food/images/food-712665_1920-80x80.jpg",
+			"thumbnail": "https://demo.proficientdesigners.in/homebox/food/images/food-712665_1920-150x150.jpg",
+			"medium": "https://demo.proficientdesigners.in/homebox/food/images/food-712665_1920-600x400.jpg",
+			"large": "https://demo.proficientdesigners.in/homebox/food/images/food-712665_1920-900x600.jpg",
+			"shop": "https://demo.proficientdesigners.in/homebox/food/images/food-712665_1920-324x324.jpg"
+		}
+	},
+	{
+		"title": "Fruit Salad",
+		"price": "$11",
+		"images": {
+			"full": "https://demo.proficientdesigners.in/homebox/food/images/fruit-2367029_1280.jpg",
+			"list": "https://demo.proficientdesigners.in/homebox/food/images/fruit-2367029_1280-80x80.jpg",
+			"thumbnail": "https://demo.proficientdesigners.in/homebox/food/images/fruit-2367029_1280-150x150.jpg",
+			"medium": "https://demo.proficientdesigners.in/homebox/food/images/fruit-2367029_1280-600x400.jpg",
+			"large": "https://demo.proficientdesigners.in/homebox/food/images/fruit-2367029_1280-900x600.jpg",
+			"shop": "https://demo.proficientdesigners.in/homebox/food/images/fruit-2367029_1280-324x324.jpg"
+		}
+	},
+	{
+		"title": "Hamburger",
+		"price": "$18",
+		"images": {
+			"full": "https://demo.proficientdesigners.in/homebox/food/images/hamburger-1238246_1280.jpg",
+			"list": "https://demo.proficientdesigners.in/homebox/food/images/hamburger-1238246_1280-80x80.jpg",
+			"thumbnail": "https://demo.proficientdesigners.in/homebox/food/images/hamburger-1238246_1280-150x150.jpg",
+			"medium": "https://demo.proficientdesigners.in/homebox/food/images/hamburger-1238246_1280-600x400.jpg",
+			"large": "https://demo.proficientdesigners.in/homebox/food/images/hamburger-1238246_1280-900x600.jpg",
+			"shop": "https://demo.proficientdesigners.in/homebox/food/images/hamburger-1238246_1280-324x324.jpg"
+		}
+	},
+	{
+		"title": "Hot Burger",
+		"price": "$17",
+		"images": {
+			"full": "https://demo.proficientdesigners.in/homebox/food/images/hamburger-494706_1920.jpg",
+			"list": "https://demo.proficientdesigners.in/homebox/food/images/hamburger-494706_1920-80x80.jpg",
+			"thumbnail": "https://demo.proficientdesigners.in/homebox/food/images/hamburger-494706_1920-150x150.jpg",
+			"medium": "https://demo.proficientdesigners.in/homebox/food/images/hamburger-494706_1920-600x400.jpg",
+			"large": "https://demo.proficientdesigners.in/homebox/food/images/hamburger-494706_1920-900x600.jpg",
+			"shop": "https://demo.proficientdesigners.in/homebox/food/images/hamburger-494706_1920-324x324.jpg"
+		}
+	},
+	{
+		"title": "Ice Cream",
+		"price": "$3",
+		"images": {
+			"full": "https://demo.proficientdesigners.in/homebox/food/images/ice-cream-1274894_1280.jpg",
+			"list": "https://demo.proficientdesigners.in/homebox/food/images/ice-cream-1274894_1280-80x80.jpg",
+			"thumbnail": "https://demo.proficientdesigners.in/homebox/food/images/ice-cream-1274894_1280-150x150.jpg",
+			"medium": "https://demo.proficientdesigners.in/homebox/food/images/ice-cream-1274894_1280-600x400.jpg",
+			"large": "https://demo.proficientdesigners.in/homebox/food/images/ice-cream-1274894_1280-900x600.jpg",
+			"shop": "https://demo.proficientdesigners.in/homebox/food/images/ice-cream-1274894_1280-324x324.jpg"
+		}
+	},
+	{
+		"title": "Strawberry Dish",
+		"price": "$6",
+		"images": {
+			"full": "https://demo.proficientdesigners.in/homebox/food/images/pancake-1984716_1280.jpg",
+			"list": "https://demo.proficientdesigners.in/homebox/food/images/pancake-1984716_1280-80x80.jpg",
+			"thumbnail": "https://demo.proficientdesigners.in/homebox/food/images/pancake-1984716_1280-150x150.jpg",
+			"medium": "https://demo.proficientdesigners.in/homebox/food/images/pancake-1984716_1280-600x400.jpg",
+			"large": "https://demo.proficientdesigners.in/homebox/food/images/pancake-1984716_1280-900x600.jpg",
+			"shop": "https://demo.proficientdesigners.in/homebox/food/images/pancake-1984716_1280-324x324.jpg"
+		}
+	},
+	{
+		"title": "Honey Naan",
+		"price": "$9",
+		"images": {
+			"full": "https://demo.proficientdesigners.in/homebox/food/images/pancakes-2139844_1920.jpg",
+			"list": "https://demo.proficientdesigners.in/homebox/food/images/pancakes-2139844_1920-80x80.jpg",
+			"thumbnail": "https://demo.proficientdesigners.in/homebox/food/images/pancakes-2139844_1920-150x150.jpg",
+			"medium": "https://demo.proficientdesigners.in/homebox/food/images/pancakes-2139844_1920-600x400.jpg",
+			"large": "https://demo.proficientdesigners.in/homebox/food/images/pancakes-2139844_1920-900x600.jpg",
+			"shop": "https://demo.proficientdesigners.in/homebox/food/images/pancakes-2139844_1920-324x324.jpg"
+		}
+	},
+	{
+		"title": "Pan Cakes",
+		"price": "$15",
+		"images": {
+			"full": "https://demo.proficientdesigners.in/homebox/food/images/pancakes-2291908_1280.jpg",
+			"list": "https://demo.proficientdesigners.in/homebox/food/images/pancakes-2291908_1280-80x80.jpg",
+			"thumbnail": "https://demo.proficientdesigners.in/homebox/food/images/pancakes-2291908_1280-150x150.jpg",
+			"medium": "https://demo.proficientdesigners.in/homebox/food/images/pancakes-2291908_1280-600x400.jpg",
+			"large": "https://demo.proficientdesigners.in/homebox/food/images/pancakes-2291908_1280-900x600.jpg",
+			"shop": "https://demo.proficientdesigners.in/homebox/food/images/pancakes-2291908_1280-324x324.jpg"
+		}
+	},
+	{
+		"title": "Piza",
+		"price": "$35",
+		"images": {
+			"full": "https://demo.proficientdesigners.in/homebox/food/images/piza-3010062_1280.jpg",
+			"list": "https://demo.proficientdesigners.in/homebox/food/images/piza-3010062_1280-80x80.jpg",
+			"thumbnail": "https://demo.proficientdesigners.in/homebox/food/images/piza-3010062_1280-150x150.jpg",
+			"medium": "https://demo.proficientdesigners.in/homebox/food/images/piza-3010062_1280-600x400.jpg",
+			"large": "https://demo.proficientdesigners.in/homebox/food/images/piza-3010062_1280-900x600.jpg",
+			"shop": "https://demo.proficientdesigners.in/homebox/food/images/piza-3010062_1280-324x324.jpg"
+		}
+	},
+	{
+		"title": "Pizza Half",
+		"price": "$7.5",
+		"images": {
+			"full": "https://demo.proficientdesigners.in/homebox/food/images/pizza-3007395_1280.jpg",
+			"list": "https://demo.proficientdesigners.in/homebox/food/images/pizza-3007395_1280-80x80.jpg",
+			"thumbnail": "https://demo.proficientdesigners.in/homebox/food/images/pizza-3007395_1280-150x150.jpg",
+			"medium": "https://demo.proficientdesigners.in/homebox/food/images/pizza-3007395_1280-600x400.jpg",
+			"large": "https://demo.proficientdesigners.in/homebox/food/images/pizza-3007395_1280-900x600.jpg",
+			"shop": "https://demo.proficientdesigners.in/homebox/food/images/pizza-3007395_1280-324x324.jpg"
+		}
+	},
+	{
+		"title": "Raspberry (Red)",
+		"price": "$23",
+		"images": {
+			"full": "https://demo.proficientdesigners.in/homebox/food/images/raspberries-1426859_1280.jpg",
+			"list": "https://demo.proficientdesigners.in/homebox/food/images/raspberries-1426859_1280-80x80.jpg",
+			"thumbnail": "https://demo.proficientdesigners.in/homebox/food/images/raspberries-1426859_1280-150x150.jpg",
+			"medium": "https://demo.proficientdesigners.in/homebox/food/images/raspberries-1426859_1280-600x400.jpg",
+			"large": "https://demo.proficientdesigners.in/homebox/food/images/raspberries-1426859_1280-900x600.jpg",
+			"shop": "https://demo.proficientdesigners.in/homebox/food/images/raspberries-1426859_1280-324x324.jpg"
+		}
+	}
+]
