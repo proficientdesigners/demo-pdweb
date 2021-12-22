@@ -1,0 +1,17 @@
+[
+	{
+		"title": "Fresh Meat",
+		"price": "£17",
+		"images": "https://demo.proficientdesigners.in/homebox/food/images/asparagus-2169305_1280-80x80.jpg"
+	},
+	{
+		"title": "Bread Sandwich",
+		"price": "£10",
+		"images": "https://demo.proficientdesigners.in/homebox/food/images/breakfast-1804457_1280-80x80.jpg"
+	},
+	{
+		"title": "Delicious Cake",
+		"price": "£22",
+		"images": "https://demo.proficientdesigners.in/homebox/food/images/cake-1971552_1280-80x80.jpg"
+	}
+]
