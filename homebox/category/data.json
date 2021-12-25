@@ -1,0 +1,134 @@
+[
+	{
+		"title": "Vegetarian",
+		"images": {
+			"full": "https://demo.proficientdesigners.in/homebox/food/images/asparagus-2169305_1280.jpg",
+			"list": "https://demo.proficientdesigners.in/homebox/food/images/asparagus-2169305_1280-80x80.jpg",
+			"thumbnail": "https://demo.proficientdesigners.in/homebox/food/images/asparagus-2169305_1280-150x150.jpg",
+			"medium": "https://demo.proficientdesigners.in/homebox/food/images/asparagus-2169305_1280-600x400.jpg",
+			"large": "https://demo.proficientdesigners.in/homebox/food/images/asparagus-2169305_1280-900x600.jpg",
+			"shop": "https://demo.proficientdesigners.in/homebox/food/images/asparagus-2169305_1280-324x324.jpg"
+		}
+	},
+	{
+		"title": "Non Vegetarian",
+		"images": {
+			"full": "https://demo.proficientdesigners.in/homebox/food/images/breakfast-1804457_1280.jpg",
+			"list": "https://demo.proficientdesigners.in/homebox/food/images/breakfast-1804457_1280-80x80.jpg",
+			"thumbnail": "https://demo.proficientdesigners.in/homebox/food/images/breakfast-1804457_1280-150x150.jpg",
+			"medium": "https://demo.proficientdesigners.in/homebox/food/images/breakfast-1804457_1280-600x400.jpg",
+			"large": "https://demo.proficientdesigners.in/homebox/food/images/breakfast-1804457_1280-900x600.jpg",
+			"shop": "https://demo.proficientdesigners.in/homebox/food/images/breakfast-1804457_1280-324x324.jpg"
+		}
+	},
+	{
+		"title": "Eggetarian",
+		"images": {
+			"full": "https://demo.proficientdesigners.in/homebox/food/images/cake-1971552_1280.jpg",
+			"list": "https://demo.proficientdesigners.in/homebox/food/images/cake-1971552_1280-80x80.jpg",
+			"thumbnail": "https://demo.proficientdesigners.in/homebox/food/images/cake-1971552_1280-150x150.jpg",
+			"medium": "https://demo.proficientdesigners.in/homebox/food/images/cake-1971552_1280-600x400.jpg",
+			"large": "https://demo.proficientdesigners.in/homebox/food/images/cake-1971552_1280-900x600.jpg",
+			"shop": "https://demo.proficientdesigners.in/homebox/food/images/cake-1971552_1280-324x324.jpg"
+		}
+	},
+	{
+		"title": "Kerala Foods",
+		"images": {
+			"full": "https://demo.proficientdesigners.in/homebox/food/images/coffee-3120750_1280.jpg",
+			"list": "https://demo.proficientdesigners.in/homebox/food/images/coffee-3120750_1280-80x80.jpg",
+			"thumbnail": "https://demo.proficientdesigners.in/homebox/food/images/coffee-3120750_1280-150x150.jpg",
+			"medium": "https://demo.proficientdesigners.in/homebox/food/images/coffee-3120750_1280-600x400.jpg",
+			"large": "https://demo.proficientdesigners.in/homebox/food/images/coffee-3120750_1280-900x600.jpg",
+			"shop": "https://demo.proficientdesigners.in/homebox/food/images/coffee-3120750_1280-324x324.jpg"
+		}
+	},
+	{
+		"title": "Karnataka Tastes",
+		"images": {
+			"full": "https://demo.proficientdesigners.in/homebox/food/images/cupcakes-690040_1280.jpg",
+			"list": "https://demo.proficientdesigners.in/homebox/food/images/cupcakes-690040_1280-80x80.jpg",
+			"thumbnail": "https://demo.proficientdesigners.in/homebox/food/images/cupcakes-690040_1280-150x150.jpg",
+			"medium": "https://demo.proficientdesigners.in/homebox/food/images/cupcakes-690040_1280-600x400.jpg",
+			"large": "https://demo.proficientdesigners.in/homebox/food/images/cupcakes-690040_1280-900x600.jpg",
+			"shop": "https://demo.proficientdesigners.in/homebox/food/images/cupcakes-690040_1280-324x324.jpg"
+		}
+	},
+	{
+		"title": "Andhra Spice",
+		"images": {
+			"full": "https://demo.proficientdesigners.in/homebox/food/images/food-366875_1280.jpg",
+			"list": "https://demo.proficientdesigners.in/homebox/food/images/food-366875_1280-80x80.jpg",
+			"thumbnail": "https://demo.proficientdesigners.in/homebox/food/images/food-366875_1280-150x150.jpg",
+			"medium": "https://demo.proficientdesigners.in/homebox/food/images/food-366875_1280-600x400.jpg",
+			"large": "https://demo.proficientdesigners.in/homebox/food/images/food-366875_1280-900x600.jpg",
+			"shop": "https://demo.proficientdesigners.in/homebox/food/images/food-366875_1280-324x324.jpg"
+		}
+	},
+	{
+		"title": "Jain Foods",
+		"images": {
+			"full": "https://demo.proficientdesigners.in/homebox/food/images/food-712665_1920.jpg",
+			"list": "https://demo.proficientdesigners.in/homebox/food/images/food-712665_1920-80x80.jpg",
+			"thumbnail": "https://demo.proficientdesigners.in/homebox/food/images/food-712665_1920-150x150.jpg",
+			"medium": "https://demo.proficientdesigners.in/homebox/food/images/food-712665_1920-600x400.jpg",
+			"large": "https://demo.proficientdesigners.in/homebox/food/images/food-712665_1920-900x600.jpg",
+			"shop": "https://demo.proficientdesigners.in/homebox/food/images/food-712665_1920-324x324.jpg"
+		}
+	},
+	{
+		"title": "Punjabi Special",
+		"images": {
+			"full": "https://demo.proficientdesigners.in/homebox/food/images/fruit-2367029_1280.jpg",
+			"list": "https://demo.proficientdesigners.in/homebox/food/images/fruit-2367029_1280-80x80.jpg",
+			"thumbnail": "https://demo.proficientdesigners.in/homebox/food/images/fruit-2367029_1280-150x150.jpg",
+			"medium": "https://demo.proficientdesigners.in/homebox/food/images/fruit-2367029_1280-600x400.jpg",
+			"large": "https://demo.proficientdesigners.in/homebox/food/images/fruit-2367029_1280-900x600.jpg",
+			"shop": "https://demo.proficientdesigners.in/homebox/food/images/fruit-2367029_1280-324x324.jpg"
+		}
+	},
+	{
+		"title": "Gujarat Joy",
+		"images": {
+			"full": "https://demo.proficientdesigners.in/homebox/food/images/hamburger-1238246_1280.jpg",
+			"list": "https://demo.proficientdesigners.in/homebox/food/images/hamburger-1238246_1280-80x80.jpg",
+			"thumbnail": "https://demo.proficientdesigners.in/homebox/food/images/hamburger-1238246_1280-150x150.jpg",
+			"medium": "https://demo.proficientdesigners.in/homebox/food/images/hamburger-1238246_1280-600x400.jpg",
+			"large": "https://demo.proficientdesigners.in/homebox/food/images/hamburger-1238246_1280-900x600.jpg",
+			"shop": "https://demo.proficientdesigners.in/homebox/food/images/hamburger-1238246_1280-324x324.jpg"
+		}
+	},
+	{
+		"title": "Sikkim Momo",
+		"images": {
+			"full": "https://demo.proficientdesigners.in/homebox/food/images/hamburger-494706_1920.jpg",
+			"list": "https://demo.proficientdesigners.in/homebox/food/images/hamburger-494706_1920-80x80.jpg",
+			"thumbnail": "https://demo.proficientdesigners.in/homebox/food/images/hamburger-494706_1920-150x150.jpg",
+			"medium": "https://demo.proficientdesigners.in/homebox/food/images/hamburger-494706_1920-600x400.jpg",
+			"large": "https://demo.proficientdesigners.in/homebox/food/images/hamburger-494706_1920-900x600.jpg",
+			"shop": "https://demo.proficientdesigners.in/homebox/food/images/hamburger-494706_1920-324x324.jpg"
+		}
+	},
+	{
+		"title": "North Indian Foods",
+		"images": {
+			"full": "https://demo.proficientdesigners.in/homebox/food/images/ice-cream-1274894_1280.jpg",
+			"list": "https://demo.proficientdesigners.in/homebox/food/images/ice-cream-1274894_1280-80x80.jpg",
+			"thumbnail": "https://demo.proficientdesigners.in/homebox/food/images/ice-cream-1274894_1280-150x150.jpg",
+			"medium": "https://demo.proficientdesigners.in/homebox/food/images/ice-cream-1274894_1280-600x400.jpg",
+			"large": "https://demo.proficientdesigners.in/homebox/food/images/ice-cream-1274894_1280-900x600.jpg",
+			"shop": "https://demo.proficientdesigners.in/homebox/food/images/ice-cream-1274894_1280-324x324.jpg"
+		}
+	},
+	{
+		"title": "South India Foods",
+		"images": {
+			"full": "https://demo.proficientdesigners.in/homebox/food/images/pancake-1984716_1280.jpg",
+			"list": "https://demo.proficientdesigners.in/homebox/food/images/pancake-1984716_1280-80x80.jpg",
+			"thumbnail": "https://demo.proficientdesigners.in/homebox/food/images/pancake-1984716_1280-150x150.jpg",
+			"medium": "https://demo.proficientdesigners.in/homebox/food/images/pancake-1984716_1280-600x400.jpg",
+			"large": "https://demo.proficientdesigners.in/homebox/food/images/pancake-1984716_1280-900x600.jpg",
+			"shop": "https://demo.proficientdesigners.in/homebox/food/images/pancake-1984716_1280-324x324.jpg"
+		}
+	}
+]
