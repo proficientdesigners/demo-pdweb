@@ -1,6 +1,8 @@
 [
 	{
-		"title": "Vegetarian",
+		"title": "Fresh Meat",
+		"price": "₹170",
+		"time": "9:52 pm",
 		"images": {
 			"full": "https://demo.proficientdesigners.in/homebox/food/images/asparagus-2169305_1280.jpg",
 			"list": "https://demo.proficientdesigners.in/homebox/food/images/asparagus-2169305_1280-80x80.jpg",
@@ -11,7 +13,9 @@
 		}
 	},
 	{
-		"title": "Non Vegetarian",
+		"title": "Bread Sandwich",
+		"price": "₹100",
+		"time": "4:59 pm",
 		"images": {
 			"full": "https://demo.proficientdesigners.in/homebox/food/images/breakfast-1804457_1280.jpg",
 			"list": "https://demo.proficientdesigners.in/homebox/food/images/breakfast-1804457_1280-80x80.jpg",
@@ -22,7 +26,9 @@
 		}
 	},
 	{
-		"title": "Eggetarian",
+		"title": "Delicious Cake",
+		"price": "₹220",
+		"time": "10:27 pm",
 		"images": {
 			"full": "https://demo.proficientdesigners.in/homebox/food/images/cake-1971552_1280.jpg",
 			"list": "https://demo.proficientdesigners.in/homebox/food/images/cake-1971552_1280-80x80.jpg",
@@ -33,7 +39,9 @@
 		}
 	},
 	{
-		"title": "Kerala Foods",
+		"title": "Morning Coffee",
+		"price": "₹50",
+		"time": "8:14 pm",
 		"images": {
 			"full": "https://demo.proficientdesigners.in/homebox/food/images/coffee-3120750_1280.jpg",
 			"list": "https://demo.proficientdesigners.in/homebox/food/images/coffee-3120750_1280-80x80.jpg",
@@ -44,7 +52,9 @@
 		}
 	},
 	{
-		"title": "Karnataka Tastes",
+		"title": "Cup Cakes",
+		"price": "₹80",
+		"time": "5:32 pm",
 		"images": {
 			"full": "https://demo.proficientdesigners.in/homebox/food/images/cupcakes-690040_1280.jpg",
 			"list": "https://demo.proficientdesigners.in/homebox/food/images/cupcakes-690040_1280-80x80.jpg",
@@ -55,7 +65,9 @@
 		}
 	},
 	{
-		"title": "Andhra Spice",
+		"title": "Combo Food",
+		"price": "₹250",
+		"time": "4:23 am",
 		"images": {
 			"full": "https://demo.proficientdesigners.in/homebox/food/images/food-366875_1280.jpg",
 			"list": "https://demo.proficientdesigners.in/homebox/food/images/food-366875_1280-80x80.jpg",
@@ -66,7 +78,9 @@
 		}
 	},
 	{
-		"title": "Jain Foods",
+		"title": "Chicken Meat",
+		"price": "₹150",
+		"time": "11:46 am",
 		"images": {
 			"full": "https://demo.proficientdesigners.in/homebox/food/images/food-712665_1920.jpg",
 			"list": "https://demo.proficientdesigners.in/homebox/food/images/food-712665_1920-80x80.jpg",
@@ -77,7 +91,9 @@
 		}
 	},
 	{
-		"title": "Punjabi Special",
+		"title": "Fruit Salad",
+		"price": "₹110",
+		"time": "8:26 pm",
 		"images": {
 			"full": "https://demo.proficientdesigners.in/homebox/food/images/fruit-2367029_1280.jpg",
 			"list": "https://demo.proficientdesigners.in/homebox/food/images/fruit-2367029_1280-80x80.jpg",
@@ -88,7 +104,9 @@
 		}
 	},
 	{
-		"title": "Gujarat Joy",
+		"title": "Hamburger",
+		"price": "₹180",
+		"time": "1:59 am",
 		"images": {
 			"full": "https://demo.proficientdesigners.in/homebox/food/images/hamburger-1238246_1280.jpg",
 			"list": "https://demo.proficientdesigners.in/homebox/food/images/hamburger-1238246_1280-80x80.jpg",
@@ -99,7 +117,9 @@
 		}
 	},
 	{
-		"title": "Sikkim Momo",
+		"title": "Hot Burger",
+		"price": "₹170",
+		"time": "4:11 am",
 		"images": {
 			"full": "https://demo.proficientdesigners.in/homebox/food/images/hamburger-494706_1920.jpg",
 			"list": "https://demo.proficientdesigners.in/homebox/food/images/hamburger-494706_1920-80x80.jpg",
@@ -110,7 +130,9 @@
 		}
 	},
 	{
-		"title": "North India",
+		"title": "Ice Cream",
+		"price": "₹30",
+		"time": "6:47 pm",
 		"images": {
 			"full": "https://demo.proficientdesigners.in/homebox/food/images/ice-cream-1274894_1280.jpg",
 			"list": "https://demo.proficientdesigners.in/homebox/food/images/ice-cream-1274894_1280-80x80.jpg",
@@ -121,7 +143,9 @@
 		}
 	},
 	{
-		"title": "South India",
+		"title": "Strawberry Dish",
+		"price": "₹60",
+		"time": "10:44 am",
 		"images": {
 			"full": "https://demo.proficientdesigners.in/homebox/food/images/pancake-1984716_1280.jpg",
 			"list": "https://demo.proficientdesigners.in/homebox/food/images/pancake-1984716_1280-80x80.jpg",
@@ -129,6 +153,71 @@
 			"medium": "https://demo.proficientdesigners.in/homebox/food/images/pancake-1984716_1280-600x400.jpg",
 			"large": "https://demo.proficientdesigners.in/homebox/food/images/pancake-1984716_1280-900x600.jpg",
 			"shop": "https://demo.proficientdesigners.in/homebox/food/images/pancake-1984716_1280-324x324.jpg"
+		}
+	},
+	{
+		"title": "Honey Naan",
+		"price": "₹90",
+		"time": "10:1 am",
+		"images": {
+			"full": "https://demo.proficientdesigners.in/homebox/food/images/pancakes-2139844_1920.jpg",
+			"list": "https://demo.proficientdesigners.in/homebox/food/images/pancakes-2139844_1920-80x80.jpg",
+			"thumbnail": "https://demo.proficientdesigners.in/homebox/food/images/pancakes-2139844_1920-150x150.jpg",
+			"medium": "https://demo.proficientdesigners.in/homebox/food/images/pancakes-2139844_1920-600x400.jpg",
+			"large": "https://demo.proficientdesigners.in/homebox/food/images/pancakes-2139844_1920-900x600.jpg",
+			"shop": "https://demo.proficientdesigners.in/homebox/food/images/pancakes-2139844_1920-324x324.jpg"
+		}
+	},
+	{
+		"title": "Pan Cakes",
+		"price": "₹150",
+		"time": "7:20 pm",
+		"images": {
+			"full": "https://demo.proficientdesigners.in/homebox/food/images/pancakes-2291908_1280.jpg",
+			"list": "https://demo.proficientdesigners.in/homebox/food/images/pancakes-2291908_1280-80x80.jpg",
+			"thumbnail": "https://demo.proficientdesigners.in/homebox/food/images/pancakes-2291908_1280-150x150.jpg",
+			"medium": "https://demo.proficientdesigners.in/homebox/food/images/pancakes-2291908_1280-600x400.jpg",
+			"large": "https://demo.proficientdesigners.in/homebox/food/images/pancakes-2291908_1280-900x600.jpg",
+			"shop": "https://demo.proficientdesigners.in/homebox/food/images/pancakes-2291908_1280-324x324.jpg"
+		}
+	},
+	{
+		"title": "Piza",
+		"price": "₹350",
+		"time": "5:15 pm",
+		"images": {
+			"full": "https://demo.proficientdesigners.in/homebox/food/images/piza-3010062_1280.jpg",
+			"list": "https://demo.proficientdesigners.in/homebox/food/images/piza-3010062_1280-80x80.jpg",
+			"thumbnail": "https://demo.proficientdesigners.in/homebox/food/images/piza-3010062_1280-150x150.jpg",
+			"medium": "https://demo.proficientdesigners.in/homebox/food/images/piza-3010062_1280-600x400.jpg",
+			"large": "https://demo.proficientdesigners.in/homebox/food/images/piza-3010062_1280-900x600.jpg",
+			"shop": "https://demo.proficientdesigners.in/homebox/food/images/piza-3010062_1280-324x324.jpg"
+		}
+	},
+	{
+		"title": "Pizza Half",
+		"price": "₹7.50",
+		"time": "1:39 am",
+		"images": {
+			"full": "https://demo.proficientdesigners.in/homebox/food/images/pizza-3007395_1280.jpg",
+			"list": "https://demo.proficientdesigners.in/homebox/food/images/pizza-3007395_1280-80x80.jpg",
+			"thumbnail": "https://demo.proficientdesigners.in/homebox/food/images/pizza-3007395_1280-150x150.jpg",
+			"medium": "https://demo.proficientdesigners.in/homebox/food/images/pizza-3007395_1280-600x400.jpg",
+			"large": "https://demo.proficientdesigners.in/homebox/food/images/pizza-3007395_1280-900x600.jpg",
+			"shop": "https://demo.proficientdesigners.in/homebox/food/images/pizza-3007395_1280-324x324.jpg"
+		}
+	},
+	{
+		"title": "Raspberry (Red)",
+		"price": "₹230",
+		"time": "8:12 am",
+		"images": {
+			"full": "https://demo.proficientdesigners.in/homebox/food/images/raspberries-1426859_1280.jpg",
+			"list": "https://demo.proficientdesigners.in/homebox/food/images/raspberries-1426859_1280-80x80.jpg",
+			"thumbnail": "https://demo.proficientdesigners.in/homebox/food/images/raspberries-1426859_1280-150x150.jpg",
+			"medium": "https://demo.proficientdesigners.in/homebox/food/images/raspberries-1426859_1280-600x400.jpg",
+			"large": "https://demo.proficientdesigners.in/homebox/food/images/raspberries-1426859_1280-900x600.jpg",
+			"shop": "https://demo.proficientdesigners.in/homebox/food/images/raspberries-1426859_1280-324x324.jpg"
 		}
 	}
 ]
