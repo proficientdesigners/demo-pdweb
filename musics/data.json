@@ -1,0 +1,44 @@
+[
+    {
+        "name": "A Year Ago - NEFFEX",
+        "url": "https://demo.proficientdesigners.in/musics/A Year Ago - NEFFEX.mp3",
+        "genre": "Pop",
+        "duration":"2:54"
+    },
+    {
+        "name": "Busy City - TrackTribe",
+        "url": "https://demo.proficientdesigners.in/musics/Busy City - TrackTribe.mp3",
+        "genre":  "Jazz and Blues",
+        "duration": "2:27"
+    },
+    {
+        "name": "By the Fireplace - TrackTribe",
+        "url": "https://demo.proficientdesigners.in/musics/By the Fireplace - TrackTribe.mp3",
+        "genre":  "Jazz and Blues",
+        "duration": "4:11"
+    },
+    {
+        "name": "Floating Home - Brian Bolger",
+        "url": "https://demo.proficientdesigners.in/musics/Floating Home - Brian Bolger.mp3",
+        "genre":  "Cinematic",
+        "duration": "2:08"
+    },
+    {
+        "name": "Modern Attempt - TrackTribe",
+        "url": "https://demo.proficientdesigners.in/musics/Modern Attempt - TrackTribe.mp3",
+        "genre":  "Jazz and Blues",
+        "duration": "2:43"
+    },
+    {
+        "name": "The Thought of You - TrackTribe",
+        "url": "https://demo.proficientdesigners.in/musics/The Thought of You - TrackTribe.mp3",
+        "genre":  "Jazz and Blues",
+        "duration": "4:11"
+    },
+    {
+        "name": "Till I Let Go - NEFFEX",
+        "url": "https://demo.proficientdesigners.in/musics/Till I Let Go - NEFFEX.mp3",
+        "genre":  "Dance and Electronic",
+        "duration": "3:00"
+    }
+]
