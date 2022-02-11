@@ -1,26 +1,41 @@
 [
     {
-        "img":"",
+        "img":"https://demo.proficientdesigners.in/synapsil/devices/1.png",
         "mac": "00:35:b4:51:a8:52",
         "mac1": "4d:c8:dc:3c:35:e1"
     },
     {
-        "img": "",
+        "img": "https://demo.proficientdesigners.in/synapsil/devices/2.png",
         "mac": "5d:b8:79:f0:90:76",
         "mac1": "60:c5:00:10:e2:75"
     },
     {
-        "img": "",
+        "img": "https://demo.proficientdesigners.in/synapsil/devices/1.png",
         "mac": "0d:3e:7e:02:cd:d5",
         "mac1": "69:2b:8f:0e:2a:43"
     },
     {
-        "img": "",
+        "img": "https://demo.proficientdesigners.in/synapsil/devices/2.png",
         "mac": "af:60:f5:fc:4f:2c",
         "mac1": "08:88:2a:0b:65:f0"
     },
     {
-        "img": "",
+        "img": "https://demo.proficientdesigners.in/synapsil/devices/1.png",
+        "mac": "85:37:bf:f1:aa:7c",
+        "mac1": "2e:9a:dd:40:6b:53"
+    },
+    {
+        "img": "https://demo.proficientdesigners.in/synapsil/devices/1.png",
+        "mac": "0d:3e:7e:02:cd:d5",
+        "mac1": "69:2b:8f:0e:2a:43"
+    },
+    {
+        "img": "https://demo.proficientdesigners.in/synapsil/devices/2.png",
+        "mac": "af:60:f5:fc:4f:2c",
+        "mac1": "08:88:2a:0b:65:f0"
+    },
+    {
+        "img": "https://demo.proficientdesigners.in/synapsil/devices/1.png",
         "mac": "85:37:bf:f1:aa:7c",
         "mac1": "2e:9a:dd:40:6b:53"
     }
